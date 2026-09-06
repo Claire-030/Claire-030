@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Claire Princess B. Arcino 👋
+### Full-Stack / Frontend Developer
 
-<!--
-**Claire-030/Claire-030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build responsive web applications and collaborative digital experiences.
+
+---
 
 Here are some ideas to get you started:
+### 🚀 Key Projects & Portfolio
+#### 1. [School Website Project](https://github.com/Claire-030/School_Website_Project.git)
+* **Tech Stack:** HTML5, CSS, JavaScript
+* **Summary:** A fully responsive website built for academic management.
+* **Key Role:** Primary developer responsible for UI/UX and routing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 2. [Tams Journey](https://github.com/Claire-030/Tams_Journey.git)
+* **Tech Stack:** HTML, JavaScript
+* **Summary:** Interactive game application featuring dynamic state management.
+* **Key Role:** Frontend contributor and UI styling.
+
+---
+
+### 🛠 Tech Stack & Skills
+* **Languages:** JavaScript, HTML5, CSS3, SQL
+* **Tools & Platforms:** Git, GitHub, VS Code
+
+---
+
+### 📫 Connect With Me
+* **LinkedIn:** [Claire Princess Arcino](www.linkedin.com/in/claire-princess-arcino-5a538637a)
+* **Email:** clairearcino0930@gmail.com
