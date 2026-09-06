@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** [Claire Princess Arcino](www.linkedin.com/in/claire-princess-arcino-5a538637a)
+* **LinkedIn:** [Claire Princess Arcino](https://www.linkedin.com/in/claire-princess-arcino-5a538637a)
 * **Email:** clairearcino0930@gmail.com
