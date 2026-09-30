@@ -17,10 +17,14 @@ Here are some ideas to get you started:
 * **Summary:** Interactive game application featuring dynamic state management.
 * **Key Role:** Frontend contributor and UI styling.
 
+#### 3. [Panciteria](https://github.com/Claire-030/Panciteria.git)
+* **Tech Stack:** HTML5, CSS, Bootstrap
+* **Summary:** A fully responsive website built for business.
+* **Key Role:** Primary developer responsible for UI/UX and routing.
 ---
 
 ### 🛠 Tech Stack & Skills
-* **Languages:** JavaScript, HTML5, CSS3, SQL
+* **Languages:** JavaScript, HTML5, CSS3, SQL, Bootstrap
 * **Tools & Platforms:** Git, GitHub, VS Code
 
 ---
